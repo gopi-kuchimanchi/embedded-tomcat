@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1%0 - - [19/Jan/2014:02:20:56 -0800] GET /profile/greet HTTP/1.1 400 968 http-bio-8080-exec-1 188
+0:0:0:0:0:0:0:1%0 - - [19/Jan/2014:02:21:04 -0800] GET /profile/greet?customerName=Gopi HTTP/1.1 200 10 http-bio-8080-exec-2 91
